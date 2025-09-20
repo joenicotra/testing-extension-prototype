@@ -4,7 +4,7 @@ A prototype project for testing browser extensions.
 
 ## Description
 
-This repository contains the testing extension prototype project for development and experimentation.
+This repository contains the testing extension prototype project for development and experimentation. It serves as a foundation for building and testing browser extensions with modern web technologies.
 
 ## Getting Started
 
@@ -29,6 +29,13 @@ npm install
 ## Usage
 
 Details about how to use this extension prototype will be added as the project develops.
+
+## Features
+
+- Modern JavaScript development setup
+- Cross-browser compatibility testing
+- Extension manifest configuration
+- Development and production builds
 
 ## Contributing
 
